@@ -1,5 +1,6 @@
 # BCDSAR
 Variational Bayesian Blind Color Deconvolution of Histopathological Images
+See exampleSAR.m for an use case over a single H&E image
 
 Full reference:\
  Copy
