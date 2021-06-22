@@ -26,4 +26,4 @@ Most whole-slide histological images are stained with two or more chemical dyes.
 ## Related work
 If you are interested in blind color deconvolution you might be interested in our works:
 - A TV-based Image Processing Framework for Blind Color Deconvolution and Classification of Histological Images. Digital Signal Processing, 2020.
-- Fully Automatic Blind Color Deconvolution of Histological Images Using Super Gaussians. 2020 28th European Signal Processing Conference (EUSIPCO).
+
